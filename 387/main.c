@@ -1,4 +1,4 @@
- #include<reg52.h> 
+ #include<reg.h> 
 #include<stdio.h>
 
 #include "delay.h"
